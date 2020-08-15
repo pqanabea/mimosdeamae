@@ -1,0 +1,19 @@
+#titulo {
+    text-align: center;
+    font-family: 'hellohoney';
+    font-size: 10vh;
+    font-style: oblique;
+}
+body {
+    background-image: url('../imagens/back.jpg');
+    background-repeat: no-repeat;
+    /* background-position: center; */
+}
+
+.container {
+    padding: 50px;
+}
+.cards {
+    padding: 25px;
+    background-color: #f9ecfa;
+}
